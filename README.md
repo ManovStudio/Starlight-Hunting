@@ -15,3 +15,5 @@ Starlight Hunting-is an educational tycoon game where the player, as a cat astro
 3. Shop - in the shop, you can buy many items, for example, Filter or Catfee, CatBook, or any other item.
 ![](https://i.ibb.co/h1D3BjzD/2025-09-04-23-04-55.png)
 
+# **Gameplay:**
+ [![Смотреть видео](https://img.youtube.com/vi/x8SplzZ3-kc/0.jpg)](https://youtu.be/x8SplzZ3-kc)
